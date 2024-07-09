@@ -8,7 +8,7 @@
 
 </head>
 <body>
-    <main class="w-100">
+    <main class="w-100-min-25">
 
 
     </main>
