@@ -8,7 +8,7 @@
 
 </head>
 <body>
-    <main class>
+    <main>
 
 
     </main>
