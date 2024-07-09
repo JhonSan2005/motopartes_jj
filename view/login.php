@@ -8,7 +8,7 @@
 
 </head>
 <body>
-    <main>
+    <main class="w-100">
 
 
     </main>
